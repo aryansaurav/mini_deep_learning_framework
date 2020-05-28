@@ -1,4 +1,4 @@
-# mini_deep_learning_framework
+# Mini deep learning framework
 
 In this package, I have implemeented a basic framework which performs neural network functions just like PyTorch but with much fewer features. Note that, we only import torch library (for arithmetic operations) and not torch.nn (for neural networks).
 
